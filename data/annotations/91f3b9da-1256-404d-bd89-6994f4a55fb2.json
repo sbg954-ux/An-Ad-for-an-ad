@@ -35,6 +35,22 @@
       ],
       "tags": [],
       "uuid": "75be6722-ff6c-476d-92d7-51a6026bc07b"
+    },
+    {
+      "start_time": 104,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This part displays the impact of fandom culture, and it's ability to create community. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5815f300-0875-4a58-987b-212479bdb1d3"
     }
   ],
   "set": "Default",
