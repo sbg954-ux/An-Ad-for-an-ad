@@ -15,6 +15,22 @@
       ],
       "tags": [],
       "uuid": "1e32ad6c-b3bb-46d6-b0f6-be0a617a877b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "75be6722-ff6c-476d-92d7-51a6026bc07b"
     }
   ],
   "set": "Default",
