@@ -74,6 +74,22 @@
       ],
       "tags": [],
       "uuid": "35aac39b-8d33-4c51-854a-f827579dd92f"
+    },
+    {
+      "start_time": 233,
+      "end_time": 262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note the misogyny that originated within the film industry when it came to editing jobs."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8c0718e9-6421-40e1-be35-66707ee6790d"
     }
   ],
   "set": "Default",
