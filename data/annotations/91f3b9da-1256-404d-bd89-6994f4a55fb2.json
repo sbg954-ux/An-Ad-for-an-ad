@@ -51,6 +51,29 @@
       ],
       "tags": [],
       "uuid": "5815f300-0875-4a58-987b-212479bdb1d3"
+    },
+    {
+      "start_time": 204,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first instance of media corporations taking notice to the importance of "
+            },
+            {
+              "text": "editing",
+              "italic": true
+            },
+            {
+              "text": " in connection to marketing and profit purposes. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "35aac39b-8d33-4c51-854a-f827579dd92f"
     }
   ],
   "set": "Default",
