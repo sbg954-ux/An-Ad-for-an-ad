@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 104,
-      "end_time": 122,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This part displays the impact of fandom culture, and it's ability to create community. "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "5815f300-0875-4a58-987b-212479bdb1d3"
-    },
-    {
       "start_time": 204,
       "end_time": 233,
       "annotation": [
