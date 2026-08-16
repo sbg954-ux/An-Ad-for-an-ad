@@ -1,26 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 45,
-      "end_time": 73,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Explains how the conception of what we know fan edits to be today started with Star Trek Fan culture in the form of "
-            },
-            {
-              "text": "vidding",
-              "italic": true
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "75be6722-ff6c-476d-92d7-51a6026bc07b"
-    },
-    {
       "start_time": 104,
       "end_time": 122,
       "annotation": [
