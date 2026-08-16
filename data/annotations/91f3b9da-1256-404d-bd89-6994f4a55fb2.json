@@ -1,22 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 270,
-      "end_time": 336,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Shares how the start of fan culture and the phenomenon of fandom in digital spaces began with the erasure of women and LGBTQ+ members of their respective online communities. "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "3a389693-2153-47a9-84cd-e5f96374124f"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "0a81e293-25a8-431e-b5a5-c7644c0c5476",
   "source_id": "6b74e0d4-2629-4368-9e62-9b397be7145c"
