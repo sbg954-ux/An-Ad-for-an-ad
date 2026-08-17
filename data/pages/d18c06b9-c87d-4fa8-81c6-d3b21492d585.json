@@ -4,11 +4,12 @@
   "created_by": "sbg954-ux",
   "title": "Hetalia AMV \"Misery Business\"",
   "slug": "hetalia-amv-misery-business",
-  "updated_at": "2026-08-17T01:47:33.514Z",
+  "updated_at": "2026-08-17T02:03:56.889Z",
   "updated_by": "sbg954-ux",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "5d8417a2-e36f-4e37-9591-e25da316b77c"
-  }
+  },
+  "parent": "e6b484bb-af20-4c10-a2ee-7ef286b5e398"
 }
