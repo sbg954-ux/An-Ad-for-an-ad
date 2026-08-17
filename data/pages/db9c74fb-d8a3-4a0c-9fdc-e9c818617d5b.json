@@ -99,7 +99,6 @@
     }
   ],
   "title": "Art & Accessibility ",
-  "parent": "491f45fe-562e-4e64-a14b-727055041955",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
@@ -107,6 +106,6 @@
   "slug": "art-and-accessibility",
   "created_at": "2026-08-04T03:41:46.405Z",
   "created_by": "sbg954-ux",
-  "updated_at": "2026-08-04T03:41:46.405Z",
+  "updated_at": "2026-08-17T01:48:29.628Z",
   "updated_by": "sbg954-ux"
 }
