@@ -4,11 +4,12 @@
   "created_by": "sbg954-ux",
   "title": "A History of Fan Editing",
   "slug": "a-history-of-fan-editing",
-  "updated_at": "2026-08-17T01:49:17.862Z",
+  "updated_at": "2026-08-17T01:51:01.145Z",
   "updated_by": "sbg954-ux",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "0a81e293-25a8-431e-b5a5-c7644c0c5476"
-  }
+  },
+  "parent": "e6b484bb-af20-4c10-a2ee-7ef286b5e398"
 }
