@@ -4,11 +4,12 @@
   "created_by": "sbg954-ux",
   "title": "Love Island Fan Edits",
   "slug": "love-island-fan-edits",
-  "updated_at": "2026-08-17T02:24:48.601Z",
+  "updated_at": "2026-08-17T02:26:42.620Z",
   "updated_by": "sbg954-ux",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "43f73863-48ad-4473-aa4e-d18ce8b293f7"
-  }
+  },
+  "parent": "e6b484bb-af20-4c10-a2ee-7ef286b5e398"
 }
