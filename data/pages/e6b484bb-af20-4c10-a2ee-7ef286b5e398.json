@@ -1,6 +1,45 @@
 {
   "content": [
     {
+      "type": "image",
+      "url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.booooooom.com%2Fwp-content%2Fuploads%2F2025%2F10%2FSullivan19.jpg&f=1&nofb=1&ipt=b63655944fa861e54a84e4a1d47d113fd3a96676966ce1c2d7c2c168aeded44d",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "                         "
+        },
+        {
+          "text": "(Art by Jordan Sullivan)",
+          "italic": true
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "An Ad for An Ad",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -51,31 +90,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Editing has surged in popularity in recent years"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "heading-two",
-      "children": [
-        {
-          "text": "Fan editing has a beautiful history within fandom culture, and has \nturned into a form of art among Gen-Z audiences. Despite it's roots \nwithin fandom culture, Capitalism is relentless in the pursuit of \nmonetizing all forms of art. This project explores not only the history \nof fan editing, but the current-day complicated implications of what fan\n editing has turned into: an ad within more forms of advertisement. "
+          "text": "Editing has surged in popularity in recent years, and this project explores the beautiful history connecting editing with fandom culture. Despite it's roots within fandom, Capitalism is relentless in the pursuit of monetizing all forms of art. This project explores the current-day relationship between fan editing as an art form and companies turning this art form into: an ad. Hidden in the infinite scroll mechanism is ads within these forms of entertainment. "
         }
       ]
     }
@@ -88,6 +103,6 @@
   "slug": "an-ad-for-an-ad-the-sad-implications-of-fan",
   "created_at": "2026-08-16T21:29:33.440Z",
   "created_by": "sbg954-ux",
-  "updated_at": "2026-08-16T21:29:33.440Z",
+  "updated_at": "2026-08-17T01:46:54.744Z",
   "updated_by": "sbg954-ux"
 }
