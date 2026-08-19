@@ -1,0 +1,67 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "5d8417a2-e36f-4e37-9591-e25da316b77c"
+      },
+      "event2": {
+        "uuid": "2cc91fcc-ebdf-464c-be46-28f26bbf093d"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Progression of the Editing Craft ",
+  "parent": "e6b484bb-af20-4c10-a2ee-7ef286b5e398",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "progression-of-the-editing-craft",
+  "created_at": "2026-08-19T23:57:50.513Z",
+  "created_by": "sbg954-ux",
+  "updated_at": "2026-08-19T23:57:50.513Z",
+  "updated_by": "sbg954-ux"
+}
