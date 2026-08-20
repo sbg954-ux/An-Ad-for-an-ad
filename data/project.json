@@ -25,11 +25,29 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Analysis",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Speaker",
+          "color": "#ADFEFF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fandom culture",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Alyvids",
+          "category": "Speaker"
+        }
+      ]
     },
     "created_at": "2026-08-04T03:01:42.956Z",
-    "updated_at": "2026-08-19T23:59:18.203Z",
+    "updated_at": "2026-08-20T00:02:38.054Z",
     "generate_pages_site": true
   },
   "annotations": {},
