@@ -1,1 +1,60 @@
-{"annotations":[{"start_time":0,"end_time":12,"annotation":[{"type":"paragraph","children":[{"text":"Vine was the first short-form video hosting service allowing users to share a maximum of six second looping videos."}]}],"tags":[],"uuid":"8d4005d9-4f58-49af-a2e9-defdbc9e51c9"},{"start_time":144,"end_time":182,"annotation":[{"type":"paragraph","children":[{"text":"Fan edits specifically belonged to fandom communities that had to be sought out in these digital spaces. You had to be active in these digital spaces to get these videos recommended"}]}],"tags":[],"uuid":"ae5dbe24-98ac-4c4d-b741-774be5137f78"},{"start_time":287,"end_time":293,"annotation":[{"type":"paragraph","children":[{"text":" Vine is a critical turning point due to the six second video format. Challenging the editing community to create captivating videos under six seconds. "}]}],"tags":[],"uuid":"9cde7e18-5d7b-40c9-968e-d4ca2deeae3d"}],"set":"Default","event_id":"2cc91fcc-ebdf-464c-be46-28f26bbf093d","source_id":"051002b2-89d1-4490-bccc-168c726169b8"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vine was the first short-form video hosting service allowing users to share a maximum of six second looping videos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Youtube video"
+        }
+      ],
+      "uuid": "8d4005d9-4f58-49af-a2e9-defdbc9e51c9"
+    },
+    {
+      "start_time": 144,
+      "end_time": 182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fan edits specifically belonged to fandom communities that had to be sought out in these digital spaces. You had to be active in these digital spaces to get these videos recommended"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ae5dbe24-98ac-4c4d-b741-774be5137f78"
+    },
+    {
+      "start_time": 287,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Vine is a critical turning point due to the six second video format. Challenging the editing community to create captivating videos under six seconds. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9cde7e18-5d7b-40c9-968e-d4ca2deeae3d"
+    }
+  ],
+  "set": "Default",
+  "event_id": "2cc91fcc-ebdf-464c-be46-28f26bbf093d",
+  "source_id": "051002b2-89d1-4490-bccc-168c726169b8"
+}

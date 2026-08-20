@@ -1,1 +1,93 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"sbg954-ux","avatar_url":"https://avatars.githubusercontent.com/u/298536043?v=4","admin":true}],"project":{"github_org":"sbg954-ux","is_private":false,"title":"An Ad for An Ad- The Implications of Fan Edits as An Art Form","description":"Fan editing has a beautiful history within fandom culture, and has turned into a form of art among Gen-Z audiences. Despite it's roots within fandom culture, Capitalism is relentless in the pursuit of monetizing all forms of art. This project explores not only the history of fan editing, but the current-day complicated implications of what fan editing has turned into: an ad within more forms of advertisement. ","language":"en","slug":"An-Ad-for-an-ad","creator":"sbg954-ux","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Analysis","color":"#ADFFD9"},{"category":"Speaker","color":"#ADFEFF"},{"color":"#DC8F8D","category":"Uncategorized"}],"tags":[{"tag":"Fandom culture","category":"Analysis"},{"tag":"Alyvids","category":"Speaker"},{"category":"Speaker","tag":"Nene"},{"category":"Analysis","tag":"Women/LGBTQ Issues"},{"category":"Uncategorized","tag":"Youtube video"},{"category":"Analysis","tag":"Reinforcing The Base"}]},"created_at":"2026-08-04T03:01:42.956Z","updated_at":"2026-08-20T00:08:21.956Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"491f45fe-562e-4e64-a14b-727055041955":{"content":[],"created_at":"2026-08-04T03:01:43.035Z","created_by":"sbg954-ux","title":"An Ad for An Ad- The Sad Implications of Fan Edits as An Art Form","updated_at":"2026-08-04T03:01:43.035Z","updated_by":"sbg954-ux","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["491f45fe-562e-4e64-a14b-727055041955"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "sbg954-ux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298536043?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "sbg954-ux",
+    "is_private": false,
+    "title": "An Ad for An Ad- The Implications of Fan Edits as An Art Form",
+    "description": "Fan editing has a beautiful history within fandom culture, and has turned into a form of art among Gen-Z audiences. Despite it's roots within fandom culture, Capitalism is relentless in the pursuit of monetizing all forms of art. This project explores not only the history of fan editing, but the current-day complicated implications of what fan editing has turned into: an ad within more forms of advertisement. ",
+    "language": "en",
+    "slug": "An-Ad-for-an-ad",
+    "creator": "sbg954-ux",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Analysis",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Speaker",
+          "color": "#ADFEFF"
+        },
+        {
+          "color": "#DC8F8D",
+          "category": "Uncategorized"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fandom culture",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Alyvids",
+          "category": "Speaker"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Nene"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Women/LGBTQ Issues"
+        },
+        {
+          "category": "Uncategorized",
+          "tag": "Youtube video"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Reinforcing The Base"
+        }
+      ]
+    },
+    "created_at": "2026-08-04T03:01:42.956Z",
+    "updated_at": "2026-08-20T00:09:21.690Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "491f45fe-562e-4e64-a14b-727055041955": {
+      "content": [],
+      "created_at": "2026-08-04T03:01:43.035Z",
+      "created_by": "sbg954-ux",
+      "title": "An Ad for An Ad- The Sad Implications of Fan Edits as An Art Form",
+      "updated_at": "2026-08-04T03:01:43.035Z",
+      "updated_by": "sbg954-ux",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "491f45fe-562e-4e64-a14b-727055041955"
+  ]
+}
