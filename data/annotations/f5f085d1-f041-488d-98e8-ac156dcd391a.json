@@ -34,7 +34,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Fandom culture",
+          "category": "Analysis"
+        },
+        {
+          "category": "Uncategorized",
+          "tag": "Youtube video"
+        }
+      ],
       "uuid": "ae5dbe24-98ac-4c4d-b741-774be5137f78"
     },
     {
