@@ -1,1 +1,48 @@
-{"annotations":[{"start_time":0,"end_time":37,"annotation":[{"type":"paragraph","children":[{"text":"Editing as an art form was born in online fandom spaces. AMV, which stands for Anime Music Video, is the long-form version of edits, and was found on Youtube."}]}],"tags":[],"uuid":"75cfb1bd-76c6-4afc-b955-03831bf969b0"},{"start_time":75,"end_time":120,"annotation":[{"type":"paragraph","children":[{"text":" A popular song would be added over clips of an anime series, but it lacked the cool transitions and special effects viewers can see today on Tiktok or Instagram. "}]}],"tags":[],"uuid":"4a50d4eb-b8e8-4d14-a2fb-7ebf4c44aab0"}],"set":"Default","event_id":"5d8417a2-e36f-4e37-9591-e25da316b77c","source_id":"7cf1f9a2-fe8f-4fde-9d68-81b2a44dddd2"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Editing as an art form was born in online fandom spaces. AMV, which stands for Anime Music Video, is the long-form version of edits, and was found on Youtube."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Youtube video"
+        },
+        {
+          "tag": "Fandom culture",
+          "category": "Analysis"
+        }
+      ],
+      "uuid": "75cfb1bd-76c6-4afc-b955-03831bf969b0"
+    },
+    {
+      "start_time": 75,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " A popular song would be added over clips of an anime series, but it lacked the cool transitions and special effects viewers can see today on Tiktok or Instagram. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4a50d4eb-b8e8-4d14-a2fb-7ebf4c44aab0"
+    }
+  ],
+  "set": "Default",
+  "event_id": "5d8417a2-e36f-4e37-9591-e25da316b77c",
+  "source_id": "7cf1f9a2-fe8f-4fde-9d68-81b2a44dddd2"
+}
