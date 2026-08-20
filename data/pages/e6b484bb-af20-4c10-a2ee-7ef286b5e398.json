@@ -106,7 +106,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Editing has surged in popularity in recent years, and this project explores the beautiful history connecting editing with fandom culture. Despite it's roots within fandom culture, media conglomerates are relentless in the pursuit of monetizing all forms of art. This project explores the origins fan editing as an art form, and the current-day relationship between fan editing as a new form of advertisement."
+          "text": "Editing has surged in popularity in recent years, and this project explores the beautiful history connecting editing with fandom culture. Despite it's roots within fandom culture, media conglomerates are relentless in the pursuit of monetizing all forms of art. This project historically analyzes the relationship between art and class to serve as an example of how art serves to reinforce the mode of production. This project explores the origins fan editing as an art form, and the current-day relationship between fan editing as a new form of advertisement. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     }
@@ -119,6 +127,6 @@
   "slug": "an-ad-for-an-ad-analyzing-editing-as-an-art",
   "created_at": "2026-08-16T21:29:33.440Z",
   "created_by": "sbg954-ux",
-  "updated_at": "2026-08-18T21:29:54.236Z",
+  "updated_at": "2026-08-20T00:18:13.636Z",
   "updated_by": "sbg954-ux"
 }
