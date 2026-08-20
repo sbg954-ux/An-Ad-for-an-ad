@@ -59,7 +59,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Youtube video"
+        }
+      ],
       "uuid": "9cde7e18-5d7b-40c9-968e-d4ca2deeae3d"
     }
   ],
