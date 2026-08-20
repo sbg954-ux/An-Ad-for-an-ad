@@ -80,7 +80,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Alyvids",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "a3cc8223-239b-4dce-8220-65b17409dd11"
     },
     {
