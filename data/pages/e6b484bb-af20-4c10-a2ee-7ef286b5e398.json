@@ -34,7 +34,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Current Climate of Entertainment ",
+          "text": "Why Fan Edits Matter: Gen Z & Changing Social Conditions ",
           "textSize": "heading-one"
         }
       ]
@@ -67,7 +67,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Rising prices is plaguing the United States like the Black Death in 14th century Europe. The pain is felt everywhere, and the rise of minimum wage hasn't matched the cost of living in years. Generations prior to gen-z are aware of how cheap basic necessities used to cost, and data points to the middle class is slowly getting priced out of everything. Competition amongst the middle class is getting fiercer with the threat of being pushed into poverty looming over Americans daily actions. "
+          "text": "Rising prices is plaguing the United States like the Black Death in 14th century Europe. The pain is felt everywhere, and the rise of minimum wage hasn't matched the cost of living in years. Generations prior are aware of how cheap basic necessities "
+        },
+        {
+          "text": "used",
+          "underline": true
+        },
+        {
+          "text": " to cost, and data points to the middle class is slowly getting priced out of seemingly everything. Competition amongst the middle class is getting fiercer with the threat of being pushed into poverty looming over Americans daily actions. "
         }
       ]
     },
@@ -83,14 +90,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Compounding this is the increase in car dependent cities, and I’d assert people all across the country are looking for forms of community and belonging. The stress of our economic conditions are leading people to look for cheap forms of entertainment. And what is more free than social media? Tiktok has about 1.9 billion active users and with the number of monthly active users on Instagram being over 2 billion. Companies are competing for consumers attention, creating what some named attention economy, and this recent phenomenon is funneling millions of Americans into social media accounts. In response to phones and social media being readily accessible a new art form has emerged: "
-        },
-        {
-          "text": "editing",
-          "italic": true
-        },
-        {
-          "text": ". "
+          "text": "Compounding this is the increase in car dependent cities, which I'd assert, limit human connection and limit our ability to form communities set up the perfect conditions for people to seek out online spaces. In addition to the fact that according to the 2024 consumer report, Americans on average spend 4 hours and 30 minutes on their phone. The average person does not have the time nor the capital to invest in other non-digital forms of art. Combined with rising costs affecting every other form of entertainment people are looking for cheap forms of entertainment. "
         }
       ]
     },
@@ -106,7 +106,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Editing has surged in popularity in recent years, and this project explores the beautiful history connecting editing with fandom culture. Despite it's roots within fandom culture, media conglomerates are relentless in the pursuit of monetizing all forms of art. This project historically analyzes the relationship between art and class to serve as an example of how art serves to reinforce the mode of production. This project explores the origins fan editing as an art form, and the current-day relationship between fan editing as a new form of advertisement. "
+          "text": "All these various factors (i.e economic uncertainty) contribute to a broader sense of isolation amongst Gen-Z. Clearly digital consumption has been on the rise, but it begs the question of where (in the digital sense) are people spending their time? Free social media platforms function as digital third spaces with Tiktok has about 1.9 billion active users and with the number of monthly active users on Instagram being over 2 billion users. Contemporary fan editing has existed way before Tiktok, but within recent years editing has surged in popularity. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Despite it's roots within fandom culture, media conglomerates are relentless in the pursuit of monetizing all forms of art. This project explores the history of editing within fandom to show contrast to current-day edits, and demonstrate how this form of art is becoming increasingly commercialized. This project explores how TikTok turns fan participation into content that can be continuously consumed alongside advertisements, sponsored content, and products. Lastly, this project explores the various functions of fan editing, for example as a way to experience nostalgia or escapism."
         }
       ]
     },
@@ -119,14 +135,14 @@
       ]
     }
   ],
-  "title": "An Ad for an Ad: Analyzing Editing as an Art Form",
+  "title": "An Ad for an Ad: Why Fan Edits Matter",
   "autogenerate": {
     "enabled": false,
     "type": "home"
   },
-  "slug": "an-ad-for-an-ad-analyzing-editing-as-an-art",
+  "slug": "an-ad-for-an-ad-why-fan-edits-matter",
   "created_at": "2026-08-16T21:29:33.440Z",
   "created_by": "sbg954-ux",
-  "updated_at": "2026-08-20T00:18:13.636Z",
+  "updated_at": "2026-08-27T18:14:42.546Z",
   "updated_by": "sbg954-ux"
 }
