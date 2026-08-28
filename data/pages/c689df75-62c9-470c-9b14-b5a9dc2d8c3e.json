@@ -35,10 +35,10 @@
   "created_by": "sbg954-ux",
   "title": "Multi TV Show Fan Edits Vine Compliation",
   "slug": "multi-tv-show-fan-edits-vine-compliation",
-  "updated_at": "2026-08-18T21:32:41.092Z",
+  "updated_at": "2026-08-28T13:43:22.844Z",
   "updated_by": "sbg954-ux",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "2cc91fcc-ebdf-464c-be46-28f26bbf093d"
   },
