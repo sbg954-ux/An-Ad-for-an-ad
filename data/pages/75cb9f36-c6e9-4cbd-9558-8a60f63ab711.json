@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "43f73863-48ad-4473-aa4e-d18ce8b293f7",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-08-17T02:24:48.601Z",
   "created_by": "sbg954-ux",
   "title": "Love Island Fan Edits",
   "slug": "love-island-fan-edits",
-  "updated_at": "2026-08-17T02:26:42.620Z",
+  "updated_at": "2026-08-28T13:43:34.664Z",
   "updated_by": "sbg954-ux",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "43f73863-48ad-4473-aa4e-d18ce8b293f7"
   },
