@@ -250,7 +250,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Analysis",
+          "tag": "Gender Issues"
+        },
+        {
+          "tag": "Alyvids",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Fandom culture",
+          "category": "Analysis"
+        }
+      ],
       "uuid": "0b0a51d6-549e-4272-88cc-f31f42b7984c"
     },
     {
