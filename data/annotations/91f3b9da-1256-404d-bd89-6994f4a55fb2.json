@@ -392,12 +392,28 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "A shift towards short-form content and algorithmic visiblity is happening within the editing community. The video discusses the iconic Wednesday fan edit which received an enormous amount of engagement!"
+              "text": "A shift towards short-form content and algorithmic visibility is happening within the editing community. The video discusses the iconic "
+            },
+            {
+              "text": "Wednesday",
+              "italic": true
+            },
+            {
+              "text": " fan edit, which received an enormous amount of engagement and demonstrates the material changes that happened with the popularity of this edit."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Analysis",
+          "tag": "Reinforcing Consumerism"
+        },
+        {
+          "tag": "Fandom culture",
+          "category": "Analysis"
+        }
+      ],
       "uuid": "f7b14761-4609-443b-8100-6d8743fceb5d"
     },
     {
