@@ -200,7 +200,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Alyvids",
+          "category": "Speaker"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Reinforcing Consumerism"
+        }
+      ],
       "uuid": "4faab90f-0397-4de3-ad4b-fa731abcd0af"
     },
     {
