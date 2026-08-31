@@ -41,6 +41,54 @@
         }
       ],
       "uuid": "532b011d-3638-4a8b-9b46-c70c552d2b0b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Love Island is incredibly popular, but Love Island turns contestants into products. This clip favorites two specific contestants and is able to monetize off of them. The contestants become forms of advertising capital from their individual social media accounts to sponserships. The people and the media become raw material for commercial content. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bafcb4fb-9b85-4a41-a723-6623c635ecef"
+    },
+    {
+      "start_time": 27,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beauty in Love Island reinforces the idea that it is economic value espcially with the competitve twist of playing for money this show has. Attractive bodies are desierable and rewarded within the rules of the show. After the show the contestants apperance is part of their income-generating potential. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "79e82fb4-e098-4073-9222-f8f451f9e0e0"
+    },
+    {
+      "start_time": 53,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You, the audience, becomes part of the marketplace. Love Island encourages viewers to be active by downloading a specific app and voting on contestants couples. Viewers engage with social media and forums discussing the show transforming the attention into generating a profit. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2c5723de-5c70-408c-bc70-0ac1637cdc73"
     }
   ],
   "set": "Default",
