@@ -89,8 +89,8 @@
       "uuid": "79e82fb4-e098-4073-9222-f8f451f9e0e0"
     },
     {
-      "start_time": 53,
-      "end_time": 68,
+      "start_time": 68,
+      "end_time": 93,
       "annotation": [
         {
           "type": "paragraph",
@@ -101,7 +101,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Fandom culture",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Reinforcing Consumerism"
+        }
+      ],
       "uuid": "2c5723de-5c70-408c-bc70-0ac1637cdc73"
     }
   ],
