@@ -408,12 +408,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Entertainment companies now incorpate edits into their ads for marketing purposes. Editors who developed their skills and audiences through fandom can now be hired by companies and publications. This turns what began as participatory fandom into something that can generate economic value. "
+              "text": "Entertainment companies now incorporate edits into their ads for marketing purposes. Editors who developed their skills and audiences through fandom can now be hired by companies and publications. This turns what began as participatory fandom into something that can generate economic value and profit. This switch to making edits for profit instead of their original purposes, in addition to the fact that TikTok's algorithms pus"
+            },
+            {
+              "bold": true,
+              "text": "h"
+            },
+            {
+              "text": " ads, is contributing to this larger problem of consumerism."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Analysis",
+          "tag": "Reinforcing Consumerism"
+        }
+      ],
       "uuid": "30781e5a-fb04-4d00-a1ba-767b5c4b58f4"
     }
   ],
