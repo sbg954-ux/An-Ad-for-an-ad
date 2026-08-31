@@ -383,7 +383,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "lauren ‎⁨@emowhofromwhoville⁩"
+        },
+        {
+          "tag": "Fandom culture",
+          "category": "Analysis"
+        }
+      ],
       "uuid": "2bb2ac6b-7983-4fd8-9415-408061d3e8ae"
     },
     {
