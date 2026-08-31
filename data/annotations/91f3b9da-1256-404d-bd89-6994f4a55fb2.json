@@ -175,7 +175,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Fandom culture",
+          "category": "Analysis"
+        },
+        {
+          "tag": "Alyvids",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "068afac2-6954-401c-bd60-8e412c9c93d8"
     },
     {
