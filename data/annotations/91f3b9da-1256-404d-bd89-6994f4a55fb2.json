@@ -354,7 +354,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "lauren ‎⁨@emowhofromwhoville⁩"
+        },
+        {
+          "tag": "Fandom culture",
+          "category": "Analysis"
+        },
+        {
+          "category": "Analysis",
+          "tag": "Reinforcing Consumerism"
+        }
+      ],
       "uuid": "1f532b62-24ef-4985-a67b-2bfc0bb5b05e"
     },
     {
