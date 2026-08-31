@@ -57,6 +57,54 @@
       ],
       "tags": [],
       "uuid": "677f6429-ed93-4def-a9cf-d1cbbb473363"
+    },
+    {
+      "start_time": 0,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Editing as an art form was born in online fandom spaces. AMV, which stands for Anime Music Video, is the long-form version of edits, and was found on Youtube."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "61f2115e-458e-4379-acf4-7d06bea8e475"
+    },
+    {
+      "start_time": 40,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " AMV truly is the conception of edits as we know it to be today."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b0b751de-cb4e-42ae-a56a-ce99f4bfe61e"
+    },
+    {
+      "start_time": 75,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " A popular song would be added over clips of an anime series, but it lacked the cool transitions and special effects viewers can see today on Tiktok or Instagram. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "27958d89-9bb7-4e92-99ed-3f5c0d38fa59"
     }
   ],
   "set": "Default",
