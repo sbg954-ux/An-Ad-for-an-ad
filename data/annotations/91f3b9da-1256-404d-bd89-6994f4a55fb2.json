@@ -225,7 +225,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Analysis",
+          "tag": "Gender Issues"
+        },
+        {
+          "tag": "Alyvids",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "da60d7f8-192e-4fb9-b46d-0730d1a43479"
     },
     {
