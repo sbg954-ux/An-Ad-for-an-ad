@@ -146,7 +146,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Alyvids",
+          "category": "Speaker"
+        },
+        {
+          "category": "Uncategorized",
+          "tag": "Technical Aspect"
+        },
+        {
+          "tag": "Fandom culture",
+          "category": "Analysis"
+        }
+      ],
       "uuid": "66775bae-1da2-4b42-8936-479992a5295f"
     },
     {
