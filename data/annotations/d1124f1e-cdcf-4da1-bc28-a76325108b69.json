@@ -68,8 +68,8 @@
       "uuid": "bafcb4fb-9b85-4a41-a723-6623c635ecef"
     },
     {
-      "start_time": 27,
-      "end_time": 48,
+      "start_time": 53,
+      "end_time": 68,
       "annotation": [
         {
           "type": "paragraph",
@@ -80,7 +80,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Analysis",
+          "tag": "Reinforcing Consumerism"
+        }
+      ],
       "uuid": "79e82fb4-e098-4073-9222-f8f451f9e0e0"
     },
     {
