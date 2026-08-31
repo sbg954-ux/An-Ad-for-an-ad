@@ -13,7 +13,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Analysis",
+          "tag": "Reinforcing Consumerism"
+        }
+      ],
       "uuid": "a66aa75a-d542-44ad-ae27-6a147c7e282c"
     },
     {
