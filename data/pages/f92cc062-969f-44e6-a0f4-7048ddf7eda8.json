@@ -69,17 +69,31 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The video ends asking "
+          "text": "The video ends by asking, "
         },
         {
-          "text": "where do we go from here",
+          "text": "where do we go from here?",
           "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Towards the conclusion, the video gives several examples of how the lines between fan edits functioning as a celebration and professional paid creators making advertisements are blurred, especially on apps like TikTok and Instagram, where edits are everywhere, getting over millions of views. There isn't anything wrong with creators being paid to make these videos, but it is such a far cry from the free labor of love editors used to engage in. It is just another example of art being sold and monetized. But it begs the question: do users on TikTok know they are watching an ad? Are users aware of how much these short clips can influence our choices? Because hiding behind these 6-second clips are companies and businesses "
         },
         {
-          "text": "? Towards the conclusion the video gives several examples of the lines between fan edits functioning as a celebration to professional paid creators making advertisements is blurred especially on apps like Tiktok and Instagram where edits are everywhere getting over millions of views. There isn't anything wrong with creators being paid to make these videos, but it is such a far cry from the free labor of love editors used to engage in. It is just another example of art being sold and monetized. But it begs the question, do users on Tiktok know they are watching an ad? Are users aware of how much these short clips can influence our choices, because hiding behind these 6 second clips "
-        },
-        {
-          "text": "are companies and business with a profit to earn not the fan girl.",
+          "text": "with a profit to earn, not the fan girl. ",
           "underline": true
         }
       ]
@@ -156,7 +170,7 @@
   "slug": "the-history-of-fan-editing",
   "created_at": "2026-08-27T18:20:07.955Z",
   "created_by": "sbg954-ux",
-  "updated_at": "2026-08-28T13:42:21.201Z",
+  "updated_at": "2026-08-31T15:28:04.522Z",
   "updated_by": "sbg954-ux",
   "parent": "e6b484bb-af20-4c10-a2ee-7ef286b5e398"
 }
