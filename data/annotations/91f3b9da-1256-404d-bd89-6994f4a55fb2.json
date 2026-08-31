@@ -433,7 +433,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Technical Aspect"
+        },
+        {
+          "category": "Speaker",
+          "tag": "lauren ‎⁨@emowhofromwhoville⁩"
+        }
+      ],
       "uuid": "8c7a863c-cb7a-483a-9665-5fac97e24587"
     },
     {
