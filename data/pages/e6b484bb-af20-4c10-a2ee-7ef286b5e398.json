@@ -67,14 +67,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Rising prices is plaguing the United States like the Black Death in 14th century Europe. The pain is felt everywhere, and the rise of minimum wage hasn't matched the cost of living in years. Generations prior are aware of how cheap basic necessities "
+          "text": "Rising prices are plaguing the United States like the Black Death in 14th-century Europe. The pain is felt everywhere, and the rise of the minimum wage hasn't matched the cost of living in years. Generations prior are aware of how cheap basic necessities used to cost, and data points to the middle class slowly"
         },
         {
-          "text": "used",
-          "underline": true
+          "bold": true,
+          "text": " "
         },
         {
-          "text": " to cost, and data points to the middle class is slowly getting priced out of seemingly everything. Competition amongst the middle class is getting fiercer with the threat of being pushed into poverty looming over Americans daily actions. "
+          "text": "getting priced out of seemingly everything. Competition amongst the middle class is getting fiercer, with the threat of being pushed into poverty looming over Americans' daily actions."
         }
       ]
     },
@@ -90,7 +90,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Compounding this is the increase in car dependent cities, which I'd assert, limit human connection and limit our ability to form communities set up the perfect conditions for people to seek out online spaces. In addition to the fact that according to the 2024 consumer report, Americans on average spend 4 hours and 30 minutes on their phone. The average person does not have the time nor the capital to invest in other non-digital forms of art. Combined with rising costs affecting every other form of entertainment people are looking for cheap forms of entertainment. "
+          "text": "Compounding this is the increase in car-dependent cities, which, I'd assert, limit human connection and limit our ability to form communities and set up the perfect conditions for people to seek out online spaces. In addition to the fact that, according to the 2024 Consumer Report, Americans, on average, spend 4 hours and 30 minutes on their phone. The average person does not have the time nor the capital to invest in other non-digital forms of art. Combined with rising costs affecting every other form of entertainment, people are looking for cheap forms of entertainment."
         }
       ]
     },
@@ -106,7 +106,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "All these various factors (i.e economic uncertainty) contribute to a broader sense of isolation amongst Gen-Z. Clearly digital consumption has been on the rise, but it begs the question of where (in the digital sense) are people spending their time? Free social media platforms function as digital third spaces with Tiktok has about 1.9 billion active users and with the number of monthly active users on Instagram being over 2 billion users. Contemporary fan editing has existed way before Tiktok, but within recent years editing has surged in popularity. "
+          "text": "All these various factors (i.e., economic uncertainty) contribute to a broader sense of isolation amongst Gen-Z. Clearly, digital consumption has been on the rise, but it begs the question of where (in the digital sense) are people spending their time? Free social media platforms function as digital third spaces, with TikTok having about 1.9 billion active users and with the number of monthly active users on Instagram being over 2 billion users. Contemporary fan editing has existed way before TikTok, but within recent years, editing has surged in popularity."
         }
       ]
     },
@@ -122,15 +122,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Despite it's roots within fandom culture, media conglomerates are relentless in the pursuit of monetizing all forms of art. This project explores the history of editing within fandom to show contrast to current-day edits, and demonstrate how this form of art is becoming increasingly commercialized. This project explores how TikTok turns fan participation into content that can be continuously consumed alongside advertisements, sponsored content, and products. Lastly, this project explores the various functions of fan editing, for example as a way to experience nostalgia or escapism."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": "Despite its roots within fandom culture, media conglomerates are relentless in the pursuit of monetizing all forms of art. This project explores the history of editing within fandom to show the contrast to current-day edits, and demonstrate how this form of art is becoming increasingly commercialized. This project explores how TikTok turns fan participation into content that can be continuously consumed alongside advertisements, sponsored content, and products. Lastly, this project explores the various functions of fan editing, for example, as a way to experience nostalgia or escapism."
         }
       ]
     }
@@ -143,6 +135,6 @@
   "slug": "an-ad-for-an-ad-why-fan-edits-matter",
   "created_at": "2026-08-16T21:29:33.440Z",
   "created_by": "sbg954-ux",
-  "updated_at": "2026-08-27T18:14:42.546Z",
+  "updated_at": "2026-08-31T15:19:05.927Z",
   "updated_by": "sbg954-ux"
 }
