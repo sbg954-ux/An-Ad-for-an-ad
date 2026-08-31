@@ -41,22 +41,6 @@
         }
       ],
       "uuid": "532b011d-3638-4a8b-9b46-c70c552d2b0b"
-    },
-    {
-      "start_time": 72,
-      "end_time": 84,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "These clips are an example of how art can't escape it's capitalist base, because "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "677f6429-ed93-4def-a9cf-d1cbbb473363"
     }
   ],
   "set": "Default",
