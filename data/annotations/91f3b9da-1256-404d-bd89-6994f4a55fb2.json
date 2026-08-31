@@ -498,7 +498,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Technical Aspect"
+        }
+      ],
       "uuid": "94f17ab1-80ec-4350-8afe-4ed5671ccd56"
     },
     {
